@@ -1,3 +1,3 @@
 # rsschool-cv
-
-https://Zhdmitry.github.io/rsschool-cv/cv
+Markdown &amp; Git
+https://Zhdmitry.github.io/rsschool-cv
