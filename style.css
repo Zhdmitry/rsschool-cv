@@ -1,0 +1,29 @@
+header {
+  font-family: sans-serif;
+  font-size: 50px;
+  text-align: center;
+  background-color: rgb(76, 214, 76);
+}
+.foto {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  background-color: rgb(223, 26, 26);
+}
+.name {
+  display: block;
+  width: auto;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+img {
+  width: 50%;
+}
+section {
+  box-sizing: border-box;
+  padding-left: 1%;
+  width: 50%;
+  background-color: salmon;
+}
